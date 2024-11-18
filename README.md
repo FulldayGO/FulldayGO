@@ -1,12 +1,14 @@
-👋 Hi, I’m @FulldayGO – Javier Escobar
-👀 I’m interested in: Software development, Full-stack development, Artificial Intelligence, Data Science, and building scalable systems.
-🌱 I’m currently learning: Advanced JavaScript frameworks (React, Next.js), Cloud computing (AWS, Azure), Machine Learning, and DevOps practices.
-💞️ I’m looking to collaborate on: Open source projects, software engineering challenges, AI development, and any interesting tech-related initiatives!
-📫 How to reach me: You can contact me via email or through my GitHub discussions.
-😄 Pronouns: He/Him
-⚡ Fun fact: I once tried to code a game in 48 hours and ended up creating an AI that could beat me at it!
+👋 Hola, soy Javier Escobar, CEO y Fundador de FulldayGO.com
 
-<!---
-FulldayGO/FulldayGO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Expansión en Chile: Estamos iniciando la apertura de nuestra plataforma de descuentos para tiendas Shopify, ofreciendo soluciones innovadoras para potenciar las ventas y fidelizar clientes.
+
+✨ Promesa FulldayGO: Ayudamos a recuperar clientes y mejorar la experiencia del cliente (CX) a través de herramientas inteligentes como cupones QR personalizados y automatización de atención al cliente 24/7.
+
+🌟 Beneficios para nuestros clientes:
+
+Aumento en conversiones: Impulsamos las ventas con estrategias personalizadas basadas en fidelizar y amar al cliente.
+Fidelización garantizada: Nuestra tecnología de QR crea conexiones más fuertes entre tiendas y clientes.
+Automatización eficiente: Ahorramos tiempo y optimizamos operaciones con bots inteligentes.
+💼 Resultados probados: Hemos demostrado un incremento del 25 % en ventas con sistemas automatizados.
+📫 Contáctanos: Si tienes una tienda Shopify, no pierdas la oportunidad de transformar tu operación. Visítanos en FulldayGO.cl o agenda una demo con nosotros.
+¡Juntos podemos llevar tu negocio al siguiente nivel!
