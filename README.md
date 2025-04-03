@@ -1,4 +1,4 @@
-👋 Hola, soy Javier Escobar, CEO y Fundador de FulldayGO.com
+👋 Hola, soy Javier Escobar, CEO y Fundador de FulldayGO.cl
 
 🚀 Expansión en Chile: Estamos iniciando la apertura de nuestra plataforma de descuentos para tiendas Shopify.
 
